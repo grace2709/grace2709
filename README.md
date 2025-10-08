@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-# 🔭 I’m currently a Computer Science Student at Babcock University
-# 🌱 I’m currently learning Software Development
-# 👯 I’m looking to collaborate on Python Web Dev projects
-# 🤔 I’m looking for help with Python
+# 🔭 I’m a graduate of Cmputer Science Student at Babcock University
+# 🌱 I’m a Cloud Enginer
+# 👯 I’m looking to collaborate on Cloud-related projects
+# 🤔 I’m looking for help with A clear roadmap
 # 💬 Ask me about Computer Science Related topics
 # 📫 How to reach me: ganyanwu97@gmail.com
 # 😄 Pronouns: She/Her/Hers
