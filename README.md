@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-# 🔭 I’m a graduate of Computer Science from Babcock University
+# 🔭 I’m a  Computer Science graduate from Babcock University
 # 🌱 I’m a Cloud Engineer
 # 👯 I’m looking to collaborate on Cloud-related projects
 # 🤔 I’m looking for help with A clear roadmap
