@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-# 🔭 I’m a graduate of Cmputer Science Student at Babcock University
-# 🌱 I’m a Cloud Enginer
+# 🔭 I’m a graduate of Computer Science from Babcock University
+# 🌱 I’m a Cloud Engineer
 # 👯 I’m looking to collaborate on Cloud-related projects
 # 🤔 I’m looking for help with A clear roadmap
 # 💬 Ask me about Computer Science Related topics
 # 📫 How to reach me: ganyanwu97@gmail.com
 # 😄 Pronouns: She/Her/Hers
-# ⚡ Fun fact: Coding is my hobby
+
 
